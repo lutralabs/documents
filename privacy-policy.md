@@ -33,10 +33,10 @@ We collect the website referrer's URL address, operating system name, country an
 We may change to other third-party analytics service provider. The Privacy Policy of Analytics subjects to every provider. You should review everything before using the Apps.
 
 ## Your Rights and Choices
-We may collect the following information about you when you use the Site:
+We may collect the following information about you when you use the Apps:
 
-Cookies. We will only use strictly necessary cookies. These cookies are essential for you to browse the Site and use its features, including accessing secure areas of the Site.
-Do Not Track. Your browser settings may allow you to automatically transmit a “Do Not Track” signal to the online services you visit. Note, however, there is no industry consensus as to what Site and app operators should do with regard to these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to “Do Not Track” signals. For more information on “Do Not Track,” visit https://allaboutdnt.com.
+Cookies. We will only use strictly necessary cookies. These cookies are essential for you to browse the Apps and use its features, including accessing secure areas of the Apps.
+Do Not Track. Your browser settings may allow you to automatically transmit a "Do Not Track" signal to the online services you visit. Note, however, there is no industry consensus as to what Apps and app operators should do with regard to these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to "Do Not Track" signals.
 
 ## Data Security
 We implement and maintain reasonable administrative, physical, and technical security safeguards to help protect information about you from loss, theft, misuse, unauthorised access, disclosure, alteration, and destruction. Nevertheless, transmission via the internet is not completely secure and we cannot guarantee the security of information about you.
