@@ -47,7 +47,7 @@ We are not responsible for the content or services of any third-party, including
 Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any interaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party, not to us.
 
 ## Personal Information
-Your submission of personal information through the Site is governed by our Privacy Policy.
+Your submission of personal information through the Site is governed by our [Privacy Policy](/privacy).
 
 ## Prohibited Usage
 You are not allowed to use the Apps for anything illegal, infringing the intellectual property rights of other people, harassment or otherwise abusive behaviour, spreading false information or viruses, spamming, or interfering with the security features of the Apps.
