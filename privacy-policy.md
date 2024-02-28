@@ -2,7 +2,7 @@
 > Updated February 27, 2024
 
 ## Overview
-By accessing the Apps, you agree to not only this Privacy Policy, but also to our Terms of Use and any other written agreements for using the Apps. And you agree to our collection and use of any personal data (as described here) as well as the features of public/permissionless blockchain technology.
+By accessing the Apps, you agree to not only this Privacy Policy, but also to our [Terms of Use](/tos) and any other written agreements for using the Apps. And you agree to our collection and use of any personal data (as described here) as well as the features of public/permissionless blockchain technology.
 
 This Privacy Policy (the "Privacy Policy") provides a comprehensive description of how Masca ("we", "our", or "us") collects, uses, and shares information about you in connection with the website at masca.io and MetaMask snap Masca, as well as your rights and choices regarding such information.
 
